@@ -1,6 +1,6 @@
 `*¡Hola! 👋 Soy Gabriela*`
 
-`*💡 Desarrollador Python interesado en Backend.*`
+`*💡 Desarrolladora de Python interesada en Backend.*`
 
 `*## 🔧 Mis Hard Skills:*`
 
